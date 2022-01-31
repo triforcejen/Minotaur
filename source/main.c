@@ -1,5 +1,5 @@
-#include "Bool.h"
-#include "Game_Loop.h"
+#include "bool.h"
+#include "game_loop.h"
 
 // Game loop for the rest of the program.
 

@@ -1,4 +1,4 @@
-#include "Game_Loop.h"
+#include "game_loop.h"
 #include <stdio.h>
 
 void Debug(void){

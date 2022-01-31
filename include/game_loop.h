@@ -1,7 +1,7 @@
 #ifndef GAME_LOOP_H
 #define GAME_LOOP_H
 
-#include "Bool.h"
+#include "bool.h"
 
 bool Game_Loop(void);
 

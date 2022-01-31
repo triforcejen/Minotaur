@@ -4,10 +4,10 @@
 // Game loop for the rest of the program.
 
 int main(void){
-	bool game_Running = true;
+	bool quit = false;
 	
-	while(game_Running) {
-		game_Running = Game_Loop();
+	while(quit == false) {
+		quit = Game_Loop();
 	}
 	return 0;
 }

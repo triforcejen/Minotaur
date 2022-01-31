@@ -15,7 +15,7 @@ void Pray(void);
 
 void Stats(void);
 
-void Process_Input(char);
+bool Process_Input(char);
 
 bool Game_Loop(void);
 
